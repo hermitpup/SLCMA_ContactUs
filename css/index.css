@@ -1,0 +1,39 @@
+.navbar-brand {
+  background-color: #FCEAD1;
+}
+
+.navbar {
+  background-color: #FCEAD1;
+}
+
+.jumbotron {
+  background-color: #186865;
+}
+
+.jumbotron h1{
+  color: #fff;
+}
+
+.jumbotron p{
+  color: #fff;
+}
+
+footer {
+  position: absolute;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  background-color: #FCEAD1;
+  margin-top: 50px;
+}
+
+.signUp form {
+  margin: 35px auto;
+  background-color: #FCEAD1;
+  padding: 25px;
+  border-radius: 7px;
+}
+
+.btn {
+  background-color: #186865;
+}
